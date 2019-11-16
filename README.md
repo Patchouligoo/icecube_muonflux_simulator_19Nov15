@@ -6,7 +6,7 @@ The wmm_points.exe amd WMM.cof are called in multiplemuon_pos.py
 !!!!!! Should create a forlder named "file" in this project before it can be run !!!!!!!
 
 
-multiplemuon_pos:
+multiplemuon_pos.py:
 
 This file is the main body of the muon flux simulator. It choose 31 energy levels
 from 1GeV ro 1TeV logly spaced. For each energy level muons are shoot in 28 x 73 bins
